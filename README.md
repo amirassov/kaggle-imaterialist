@@ -1,4 +1,4 @@
-# First Place Solution of [iMaterialist (Fashion) 2019 at FGVC6](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/)
+# The First Place Solution of [iMaterialist (Fashion) 2019](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/)
 
 ## Solution
 My solution is based on the COCO challenge 2018 winners article: https://arxiv.org/abs/1901.07518. 
