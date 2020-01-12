@@ -136,6 +136,9 @@ bash split.sh
 CUDA_VISIBLE_DEVICES=[list of gpus] bash dist_train.sh [config] [gpus] [--validate] 
 ```
 
+#### My best checkpoint:
+https://yadi.sk/d/-raqliq_ad6r_Q
+
 ### Test the model:
 ```bash
 CUDA_VISIBLE_DEVICES=[list of gpus] bash dist_test_ensemble.sh [config] [gpus]
